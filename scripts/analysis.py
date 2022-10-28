@@ -23,5 +23,5 @@ for key, val in fred_sources.items():
 
 commodities_data = pd.concat(data).reset_index(drop=True)
 
-war_data = pd.read_excel('Ukraine_Black_Sea_2020_2022_Oct21.xlsx')
+war_data = pd.read_excel(r'data\Ukraine_Black_Sea_2020_2022_Oct21.xlsx')
 # %%
