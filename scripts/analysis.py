@@ -13,7 +13,7 @@ data = {}
 
 for key, val in fred_sources.items():
     
-    temp_df = fred_api(key, 'm', '2021-05-01', 'sum').pull()
+    temp_df = fred_api(key, 'm', '2018-01-01', 'sum').pull()
 
     temp_df.columns = ['Date', 'Amount']
 
@@ -22,4 +22,6 @@ for key, val in fred_sources.items():
     data[val] = temp_df
 
 commodities_data = pd.concat(data).reset_index(drop=True)
+
+war_data = pd.read_excel('Ukraine_Black_Sea_2020_2022_Oct21.xlsx')
 # %%
