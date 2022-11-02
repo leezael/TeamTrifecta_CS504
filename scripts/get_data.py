@@ -25,10 +25,12 @@ class fred_api:
 
 
         #other revelant object information
-        self.api_key = '&api_key=33f26e3d2b0baab37e3ac5a4efe6133f'
+        self.api_key = '&api_key=96b1399faf51a7653444c0d3e0f005a7'
         self.fred_path = 'https://api.stlouisfed.org/fred/series/observations?series_id='
 
+        print("Before the Fred Api call:")
         self.call = self.fred_path + self.code + self.start_period + self.frequency + self.agg_func + self.api_key +"&file_type=json"
+        print(self.call)
 
     def pull(self) -> pd.DataFrame:
         """Pulls data from the FRED API to the and saves it to specified file path"""
@@ -46,9 +48,9 @@ class fred_api:
 class acled_api:
     #TODO - Emailed ACLED to get API access
     def __init__(self) -> None:
-        self.api_key = 'vBJ9mgM!NQG5FG-t1aUS'
+        self.api_key = 'sJh7NXY*dO8X6NX7D0EL'
 
-        self.data = requests.get(f'https://api.acleddata.com/country/read/?key={self.api_key}&email=wpriddy@gmu.edu&country=Ukraine')
+        self.data = requests.get(f'https://api.acleddata.com/country/read/?key={self.api_key}&email=epunnoos@gmu.edu&country=Ukraine')
 
     def pull(self):
 
