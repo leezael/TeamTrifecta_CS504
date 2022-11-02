@@ -3,12 +3,35 @@ from get_data import fred_api
 import pandas as pd
 import csv
 
-fred_sources = {'WPS101': 'Steel',
-                'PWHEAMTUSDM': 'Wheat',
-                'PCOALAUUSDM': 'Coal',
-                'WPS0571': 'Gas',
-                'PBARLUSDM': 'Barley',
-                'PMAIZMTUSDM' : 'Corn'}
+#fred_sources = {'WPS101': 'Steel',
+#                'PWHEAMTUSDM': 'Wheat',
+#                'PCOALAUUSDM': 'Coal',
+#                'WPS0571': 'Gas',
+#                'PBARLUSDM': 'Barley',
+#                'PMAIZMTUSDM' : 'Corn'}
+
+fred_sources = {'PIORECRUSDM': 'IronOre',
+      'PSUNOUSDM': 'SunflowerOil',
+      'PROILUSDM': 'RapeseedOil',
+      'WPU10170674': 'StainlessSteel',
+      'WPS101707': 'RolledSteel',
+      'WPU101213': 'CastIron',
+      'WPU139902094': 'Slag',
+      'WPS029': 'AnimalFodder',
+      'WPS0571': 'Gas',
+      'PBARLUSDM': 'Barley',
+      'PMAIZMTUSDM' : 'Corn',
+      'WPS101': 'Steel',
+      'PWHEAMTUSDM': 'Wheat',
+      'PCU2111112111111':'CrudePetroleum',
+      'PCU3241913241910': 'RefinedPetroleum',
+      'PCOALAUUSDM': 'Coal',
+      'WPS0571': 'Gas',
+      'PCU2122212122210' : 'GoldOre',
+      'WPU102504' : 'Nickel',
+      'PALUMUSDM' : 'Aluminium',
+      'PCOPPUSDM': 'Copper'}
+
 
 data = []
 df = pd.DataFrame(data)
