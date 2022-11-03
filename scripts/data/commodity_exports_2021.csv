@@ -1,0 +1,37 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+HS,2021,202101,Jan-21,4,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,1005,Maize (corn),,,,,,,1995540957,,403537814,,,0
+HS,2021,202102,Feb-21,4,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,1005,Maize (corn),,,,,,,2476143838,,554516976,,,0
+HS,2021,202103,Mar-21,4,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,1005,Maize (corn),,,,,,,2620105018,,618327124,,,0
+HS,2021,202104,Apr-21,4,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,1005,Maize (corn),,,,,,,2627966792,,651698239,,,0
+HS,2021,202105,May-21,4,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,1005,Maize (corn),,,,,,,2245398984,,568715616,,,0
+HS,2021,202106,Jun-21,4,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,1005,Maize (corn),,,,,,,1698204961,,446837990,,,0
+HS,2021,202107,Jul-21,4,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,1005,Maize (corn),,,,,,,,,250200027,,,0
+HS,2021,202108,Aug-21,4,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,1005,Maize (corn),,,,,,,301502075,,77917828,,,0
+HS,2021,202109,Sep-21,4,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,1005,Maize (corn),,,,,,,29238965,,4486524,,,0
+HS,2021,202110,Oct-21,4,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,1005,Maize (corn),,,,,,,894846046,,209500911,,,0
+HS,2021,202111,Nov-21,4,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,1005,Maize (corn),,,,,,,3791803424,,888684639,,,0
+HS,2021,202112,Dec-21,4,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,1005,Maize (corn),,,,,,,4897227685,,1180162858,,,0
+HS,2021,202101,Jan-21,4,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,1101,Wheat or meslin flour,,,,,,,6841228,,2132471,,,0
+HS,2021,202102,Feb-21,4,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,1101,Wheat or meslin flour,,,,,,,6911893,,2279032,,,0
+HS,2021,202103,Mar-21,4,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,1101,Wheat or meslin flour,,,,,,,3918109,,1409777,,,0
+HS,2021,202104,Apr-21,4,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,1101,Wheat or meslin flour,,,,,,,9156364,,2919154,,,0
+HS,2021,202105,May-21,4,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,1101,Wheat or meslin flour,,,,,,,6351800,,2087605,,,0
+HS,2021,202106,Jun-21,4,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,1101,Wheat or meslin flour,,,,,,,14011685,,4400939,,,0
+HS,2021,202107,Jul-21,4,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,1101,Wheat or meslin flour,,,,,,,11482322,,3676204,,,0
+HS,2021,202108,Aug-21,4,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,1101,Wheat or meslin flour,,,,,,,12421171,,4034066,,,0
+HS,2021,202109,Sep-21,4,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,1101,Wheat or meslin flour,,,,,,,14584547,,3898071,,,0
+HS,2021,202110,Oct-21,4,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,1101,Wheat or meslin flour,,,,,,,6995792,,2716907,,,0
+HS,2021,202111,Nov-21,4,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,1101,Wheat or meslin flour,,,,,,,8498212,,3496344,,,0
+HS,2021,202112,Dec-21,4,0,2,Exports,804,Ukraine,,0,World,,,,,,,,,1101,Wheat or meslin flour,,,,,,,6761909,,2820791,,,0
+HS,2021,202101,Jan-21,6,1,2,Exports,804,Ukraine,,0,World,,,,,,,,,830710,"Tubing; flexible, with or without fittings, of iron or steel",,,,,,,3423,,41420,,,0
+HS,2021,202102,Feb-21,6,1,2,Exports,804,Ukraine,,0,World,,,,,,,,,830710,"Tubing; flexible, with or without fittings, of iron or steel",,,,,,,17395,,151344,,,0
+HS,2021,202103,Mar-21,6,1,2,Exports,804,Ukraine,,0,World,,,,,,,,,830710,"Tubing; flexible, with or without fittings, of iron or steel",,,,,,,27538,,159381,,,0
+HS,2021,202104,Apr-21,6,1,2,Exports,804,Ukraine,,0,World,,,,,,,,,830710,"Tubing; flexible, with or without fittings, of iron or steel",,,,,,,16800,,100260,,,0
+HS,2021,202105,May-21,6,1,2,Exports,804,Ukraine,,0,World,,,,,,,,,830710,"Tubing; flexible, with or without fittings, of iron or steel",,,,,,,18213,,164240,,,0
+HS,2021,202106,Jun-21,6,1,2,Exports,804,Ukraine,,0,World,,,,,,,,,830710,"Tubing; flexible, with or without fittings, of iron or steel",,,,,,,8629,,58110,,,0
+HS,2021,202107,Jul-21,6,1,2,Exports,804,Ukraine,,0,World,,,,,,,,,830710,"Tubing; flexible, with or without fittings, of iron or steel",,,,,,,6635,,66830,,,0
+HS,2021,202108,Aug-21,6,1,2,Exports,804,Ukraine,,0,World,,,,,,,,,830710,"Tubing; flexible, with or without fittings, of iron or steel",,,,,,,18089,,156539,,,0
+HS,2021,202109,Sep-21,6,1,2,Exports,804,Ukraine,,0,World,,,,,,,,,830710,"Tubing; flexible, with or without fittings, of iron or steel",,,,,,,22389,,110416,,,0
+HS,2021,202110,Oct-21,6,1,2,Exports,804,Ukraine,,0,World,,,,,,,,,830710,"Tubing; flexible, with or without fittings, of iron or steel",,,,,,,23802,,189343,,,0
+HS,2021,202111,Nov-21,6,1,2,Exports,804,Ukraine,,0,World,,,,,,,,,830710,"Tubing; flexible, with or without fittings, of iron or steel",,,,,,,12229,,105073,,,0
+HS,2021,202112,Dec-21,6,1,2,Exports,804,Ukraine,,0,World,,,,,,,,,830710,"Tubing; flexible, with or without fittings, of iron or steel",,,,,,,25198,,264205,,,0
