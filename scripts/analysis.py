@@ -51,5 +51,4 @@ for key, val in fred_sources.items():
 print(df)
 df.to_csv("commodity_all.csv",sep=',', header=True)
 
-war_data = pd.read_excel(r'data/Ukraine_Black_Sea_2020_2022_Oct21.xlsx')
 # %%
