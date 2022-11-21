@@ -3,3 +3,5 @@
 *.swm
 *.swn
 *.swo
+*.vscode
+*.ipynb_checkpoints
